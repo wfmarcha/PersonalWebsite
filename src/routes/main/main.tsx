@@ -4,7 +4,7 @@ import React from 'react';
 function Main() {
   return (
     <div className="App">
-<h1>test!</h1>        
+<h1>Welcome!</h1>        
     </div>
   );
 }
